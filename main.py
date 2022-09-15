@@ -1,4 +1,4 @@
-def topFiveMovies(A, B, C, D, E):
-    return A + B + C + D + E
+def topFiveMovies(a, b, c, d, e):
+    return a + b + c + d + e
 
-print(topFiveMovies("1,", " 2,", " 3,", " 4,", " 5"))
+print(topFiveMovies("1" + " ", "2" + " ", "3" + " ", "4" + " ", "5"))
